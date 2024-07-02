@@ -1,0 +1,618 @@
+#Student = Dawit Jembere
+#Language = amh (Amharic, Ethiopian Semitic language), eng (English)
+#Description = 
+#For each sentence: "#sent_id", "#text_amh", "#text_en"
+#For each toekn : column1 = toekn in the language, column2 = English Gloss, column3 = POS, column4 = comment  
+
+# sent_id = 01
+# text_amh = "አብዛኛው የዲጂታል ሽግግር በዩናይትድ ስቴትስ ታይቶ የማይታወቅ ቢሆንም፣ ሰላማዊው የስልጣን ሽግግር ግን አይደለም” ሲሉ የኦባማ ልዩ ረዳት የሆኑት ኮሪ ሹልማን ሰኞ በብሎግ ፅፈዋል።
+# text_ipa = ”abzaaw yädi ital gigir bäyunaytd stet tayto yämytawäq bihonm sälamawi yäslt’an ggr gn aydäläm” silu yäobama rädat yähonut kori ulman säo bäbg s’fäwal             
+# text_en = “While much of the digital transition is unprecedented in the United States, the peaceful transition of power is not,” Obama special assistant Kori Schulman wrote in a blog post Monday.
+# language = Amharic
+
+"   punkt   PUNKT
+
+አብዛኛው   majority    ADJECTIVE
+
+የዲጂታል   -   -   -   -   -   -   -
+
+የ       of  GENETIVE
+
+ዲጂታል    digital ADJECTIVE 
+
+ሽግግር    transfer    NOUN
+
+በዩናይትድ  -   -   -   -   -   -   -
+
+በ   in  ADP
+
+ዩናይትድ   united  ADJECTIVE  
+
+ስቴትስ    states  NOUN 
+
+ታይቶ seen    VERB 
+
+ቢሆንም    -   -   -   -   -   -   -
+
+ቢ
+
+ሆን  be  AUX
+
+ም   CCONJ   
+
+ሰላማዊው   peaceful   ADJECTIVE 
+
+የስልጣን   -   -   -   -   -   -   -
+
+የ   of  GENETIVE
+
+ስልጣን    power   NOUN        
+
+ሽግግር    transfer    NOUN 
+
+ግን  yet CCONJ   
+
+አይደለም   not PART
+
+"   punkt   PUNKT    
+
+ሲሉ  saying  VERB 
+
+የ   of  GENETIVE
+
+ኦባማ Obama   PROPN
+
+ልዩ  special ADJECTIVE  
+
+ረዳት assistant   NOUN
+
+የሆኑት    -   -   -   -   -
+
+የ   of  RLP
+
+ሆኑ  be  AUX
+
+ት
+
+ኮሪ  Kori    PROPN 
+
+ሹልማን Schulman    PROPN
+
+ሰኞ  Monday  NOUN
+
+በ   in  INS    
+
+ብሎግ blog    NOUN
+
+ፅፈዋል    wrote   VERB
+
+።   punkt   PUNKT
+
+
+#Student = Dawit Jembere
+#Language = amh (Amharic, Ethiopian Semitic language), eng (English)
+#Description = 
+#For each sentence: "#sent_id", "#text_amh", "#text_en"
+#For each toekn : column1 = toekn in the language, column2 = English Gloss, column3 = POS, column4 = comment  
+
+# sent_id = 02
+# text_amh = በካፒቶል ሂል የማህበራዊ ሚዲያ ሽግግሮችን ለሚከተሉ ይህ ትንሽ የተለየ ይሆናል።
+# text_ipa = bekapītoli hīli layi yemahiberawī mīdīya shigigirochini lemīketelu, yihi tinishi yeteleye yihonali             
+# text_en = For those who follow social media transitions on Capitol Hill, this will be a little different.
+# language = Amharic
+
+በካፒቶል   -   -   -   -   -
+
+በ   in  ADP   
+
+ካፒቶል    Capitol NOUN
+
+ሂል  Hill    NOUN 
+
+የማህበራዊ  -   -   -   -   -   -
+
+የ   of  RLP   
+
+ማህበራዊ   social  ADJECTIVE 
+
+ሚዲያ media   NOUN 
+
+ሽግግሮችን  -   -   -   -   -   -   
+
+ሽግግሮች   transitions NOUN
+
+ን   
+
+ለሚከተሉ   -   -   -   -   -   -
+
+ለ   For ABL 
+
+ሚከተ follow  VERB
+
+ሉ   those   RLP    
+
+ይህ  this    PRON 
+
+ትንሽ little  ADJECTIVE 
+
+የተለየ    special ADJECTIVE 
+
+ይሆናል    be  VERB
+
+።   punkt   PUNKT
+
+
+#Student = Dawit Jembere
+#Language = amh (Amharic, Ethiopian Semitic language), eng (English)
+#Description = 
+#For each sentence: "#sent_id", "#text_amh", "#text_en"
+#For each toekn : column1 = toekn in the language, column2 = English Gloss, column3 = POS, column4 = comment  
+
+# sent_id = 03
+# text_amh = ነገር ግን ኢሚግሬሽንን ስለመገደብ ካለፈው ንግግሩ እረፍት ላይ፣ የጂኦፒ ተሿሚው እንደ ፕሬዝደንትነቱ በ"ብቃት ስርዓት" ላይ በመመስረት ህጋዊ ስደተኞችን “እጅግ በጣም ብዙ” እንደሚፈቅድ አስታውቋል።
+# text_ipa = negeri gini īmīgirēshinini silemegedebi kalefewi nigigiru irefiti layi, yejī'opī teshwamīwi inide pirēzidenitinetu be"bik'ati siri'ati" layi bememesireti higawī sidetenyochini “ijigi bet'ami bizu” inidemīfek'idi āsitawik'wali.             
+# text_en = But in a break from his past rhetoric about curtailing immigration, the GOP nominee proclaimed that as president he would allow “tremendous numbers” of legal immigrants based on a “merit system.”
+# language = Amharic
+
+ነገር ግን  but CCONJ
+
+ኢሚግሬሽንን -   -   -   -   -
+
+ኢሚግሬሽን  immigration NOUN
+
+ን   obj ACC
+
+ስለመገደብ  -   -   -   -       
+
+ስለ  about   
+
+መገደብ    curtail
+
+ካለፈው    -   -   -   -
+
+ከ   
+
+ኣለፈ  past    
+
+ው   det.masc    DET
+
+ንግግሩ    speech  NOUN 
+
+እረፍት    
+
+ላይ
+
+የጂኦፒ    -   -   -   -   -
+
+የ   of  GENETIVE
+
+ጂኦፒ     GOP 
+
+ተሿሚው    -   -   -   -
+
+ተሿሚ
+
+ው
+
+እንደ 
+
+ፕሬዝደንትነቱ
+
+በ
+
+"ብቃት ስርዓት" 
+
+ላይ በመመስረት ህጋዊ ስደተኞችን “እጅግ በጣም ብዙ” እንደሚፈቅድ አስታውቋል።
+
+
+
+#Student = Dawit Jembere
+#Language = amh (Amharic, Ethiopian Semitic language), eng (English)
+#Description = 
+#For each sentence: "#sent_id", "#text_amh", "#text_en"
+#For each toekn : column1 = toekn in the language, column2 = English Gloss, column3 = POS, column4 = comment  
+
+# sent_id = 04
+# text_amh = በሰሜን ካሮላይና ዩኒቨርስቲ በስፖርት ሜዳ ለተሰበሰበው ህዝብ "ስለዚህ ትንሽ ጫና ማድረግ እጠላለሁ፣ የሪፐብሊኩ እጣ ፈንታ ግን በትከሻችሁ ላይ ነው" ብሏል።
+# text_ipa = besemēni karolayina yunīverisitī besiporiti mēda letesebesebewi hizibi "silezīhi tinishi ch'ana madiregi it'elalehu, yerīpebilīku it'a fenita gini betikeshachihu layi newi" bilwali             
+# text_en = “So I hate to put a little pressure on you, but the fate of the republic rests on your shoulders,” he told the crowd gathered on a sports field at the University of North Carolina.
+# language = Amharic
+
+
+በሰሜን    -   -   -   - 
+
+በ       ADP   
+
+ሰሜን North   ADJECTIVE
+
+ካሮላይና   Carolina    NOUN 
+
+ዩኒቨርስቲ  University  NOUN 
+
+በስፖርት   -   -   -   -
+
+በ       ADP
+
+ስፖርት    sport  NOUN
+
+ሜዳ  field   NOUN   
+
+ለተሰበሰበው -   -   -   -   -
+
+ለ   to  DAT
+
+ተሰበሰበ   gathered    ADJECTIVE
+
+ው   det.masc    DET
+
+ህዝብ public  NOUN 
+
+"   punkt   PUNKT
+
+ስለዚህ    therefore   SCONJ 
+
+ትንሽ little  ADJECTIVE 
+
+ጫና  pressure    NOUN 
+
+ማድረግ    to-do   VERB     
+
+እጠላለሁ   -   -   -   -   -
+
+እጠላለ    hate    
+
+ሁ   1sg.nom PRON
+
+የሪፐብሊኩ  -   -   -   -   - 
+
+የ   of  POSSESSIVE
+
+ሪፐብሊኩ   republic 
+
+እጣ ፈንታ  destiny NOUN 
+
+ግን  but CCONJ
+
+በትከሻችሁ  -   -   -   -   -
+
+በ   on  ADP
+
+ትከሻችሁ   -   -   -   -   -
+
+ትከሻች    shoulders   NOOUN
+
+ሁ   2pl PRON    
+
+ላይ  on  ADP 
+
+ነው  be  AUX
+
+"   punkt   PUNKT 
+
+ብሏል said    VERB
+
+።   punkt   PUNKT
+
+
+#Student = Dawit Jembere
+#Language = amh (Amharic, Ethiopian Semitic language), eng (English)
+#Description = 
+#For each sentence: "#sent_id", "#text_amh", "#text_en"
+#For each toekn : column1 = toekn in the language, column2 = English Gloss, column3 = POS, column4 = comment  
+
+# sent_id = 05
+# text_amh = አዲሱ ወጪ በክሊንተን ትልቅ የባንክ አካውንት ነው የተቀጣጠለው።
+# text_ipa = ādīsu wech'ī bekilīniteni tilik'i yebaniki ākawiniti newi yetek'et'at'elewi             
+# text_en = The new spending is fueled by Clinton’s large bank account.
+# language = Amharic
+
+
+አዲሱ -   -   -   -   -
+
+አዲሱ new NOUN
+
+ኡ   det.masc    DET
+
+ወጪ  spending    NOUN 
+
+በክሊንተን  -   -   -   -   
+
+በ   ADP
+
+ክሊንተን   Clinton PROPN
+
+ትልቅ big ADJECTIVE
+
+ የባንክ   -   -   -   -   -   
+
+ የ  of  GENETIVE  
+ 
+ ባንክ    bank    NOUN
+
+ አካውንት  account NOUN
+ 
+ ነው be  AUX 
+ 
+ የተቀጣጠለው
+ 
+ ።  punkt   PUNKT
+
+
+
+#Student = Dawit Jembere
+#Language = amh (Amharic, Ethiopian Semitic language), eng (English)
+#Description = 
+#For each sentence: "#sent_id", "#text_amh", "#text_en"
+#For each toekn : column1 = toekn in the language, column2 = English Gloss, column3 = POS, column4 = comment  
+
+# sent_id = 06
+# text_amh = የምትናገረው እና የምትሰራው እሱ - በእውነቱ, የማይታመን ነው።
+# text_ipa = yemitinagerewi ina yemitiserawi, isu - be'iwinetu, yemayitameni newi             
+# text_en = What she’s saying and what she’s doing, it — actually, it’s unbelievable.
+# language = Amharic
+
+የምትናገረው -   -   -   -
+
+የ      
+
+ምትናገረው
+
+እና  and CCONJ
+
+የምትሰራው
+
+እሱ  it.3sg.masc
+
+በእውነቱ
+
+የማይታመን
+
+ነው  be  AUX
+
+።   punkt   PUNKT
+
+
+
+#Student = Dawit Jembere
+#Language = amh (Amharic, Ethiopian Semitic language), eng (English)
+#Description = 
+#For each sentence: "#sent_id", "#text_amh", "#text_en"
+#For each toekn : column1 = toekn in the language, column2 = English Gloss, column3 = POS, column4 = comment  
+
+# sent_id = 07
+# text_amh = በአንድ ሰው 5,000 ዶላር፣ የሚፈቀደው ከፍተኛ።
+# text_ipa = be'ānidi sewi 5,000 dolari, yemīfek'edewi kefitenya             
+# text_en = $5,000 per person, the maximum allowed.
+# language = Amharic
+
+በአንድ    -   -   -   -   -
+
+በ   ADP      
+
+አንድ one NUMBER
+
+ሰው  person  NOUN
+
+5,000   NUMBER
+
+ዶላር dolar   NOUN
+
+የሚፈቀደው  allowed ADJECTIVE
+
+ከፍተኛ    high    ADJECTIVE
+
+።   punkt   PUNKT
+
+
+#Student = Dawit Jembere
+#Language = amh (Amharic, Ethiopian Semitic language), eng (English)
+#Description = 
+#For each sentence: "#sent_id", "#text_amh", "#text_en"
+#For each toekn : column1 = toekn in the language, column2 = English Gloss, column3 = POS, column4 = comment  
+
+# sent_id = 08
+# text_amh = በጥቅምት ወር መጀመሪያ ላይ የሽግግሩ ቡድን ከቴክኖሎጂ ሎቢስቶች ጋር ለመገናኘት ተመሳሳይ ቦታን ተጠቅሞ የኡበር ተወካዮችን፣ የአሜሪካ ሞሽን ፎቶግራፍ ማህበር፣ የሸማቾች ቴክኖሎጂ ማህበር እና ሌሎች ቡድኖችን በመጋበዝ ነበር።
+# text_ipa = bet'ik'imiti weri mejemerīya layi yeshigigiru budini ketēkinolojī lobīsitochi gari lemegenanyeti temesasayi botani tet'ek'imo ye'uberi tewekayochini, ye'āmērīka moshini photogirafi mahiberi, yeshemachochi tēkinolojī mahiberi ina lēlochi budinochini bemegabezi neberi             
+# text_en = In early October, the transition team used the same venue to meet with technology lobbyists, inviting representatives from Uber, the Motion Picture Association of America, the Consumer Technology Association and other groups.
+# language = Amharic 
+
+በጥቅምት   -   -   -   -   -
+
+በ   in  ADP   
+
+ጥቅምት    October NOUN
+
+ወር  month   NOUN
+
+መጀመሪያ   beginning   NOUN
+
+ላይ  on  ADP
+
+የሽግግሩ   -   -   -   -   -
+
+የ   of  GENETIVE
+
+ሽግግር    transfer    NOUN    
+
+ኡ   det.masc    DET       
+
+ቡድን group   NOUN 
+
+ከቴክኖሎጂ  -   -   -   -   -
+
+ከ   ADP   
+
+ቴክኖሎጂ   technology  NOUN
+
+ሎቢስቶች   lobbyists   NOUN
+
+ጋር  with    ADP
+
+ለመገናኘት  -   -   -   -   -
+
+ለ   to    
+
+መገናኘት   meeting NOUN
+
+ተመሳሳይ   similar ADJECTIVE 
+
+ቦታን -   -   -   -   -   -
+
+ቦታ  place   NOUN
+
+ን   acc ACC  
+
+ተጠቅሞ    used    
+
+የኡበር    -   -   -   -   -
+
+የ   of  GENETIVE   
+
+ኡበር Uber    NOUN
+
+
+ተወካዮችን  representatives NOUN
+
+
+የአሜሪካ   -   -   -   -   -
+
+የ   of  GENETIVE
+
+አሜሪካ    America NOUN
+
+ሞሽን Motion  NOUN
+
+ፎቶግራፍ   photogirafi NOUN
+
+ማህበር    Association NOUN
+
+የሸማቾች   -   -   -   -   -   -
+
+የ   of  GENETIVE
+
+ሸማቾች    Consumer    NOUN
+
+ቴክኖሎጂ   technology  NOUN
+
+ማህበር    Association NOUN
+
+እና  and CCONJ 
+
+ሌሎች other   
+
+ቡድኖችን   -   -       -
+
+ቡድኖች    group   NOUN
+
+ን   ACC
+
+በመጋበዝ   inviting    NOUN
+
+ነበር be  AUX
+
+።   punkt   PUNKT
+
+
+#Student = Dawit Jembere
+#Language = amh (Amharic, Ethiopian Semitic language), eng (English)
+#Description = 
+#For each sentence: "#sent_id", "#text_amh", "#text_en"
+#For each toekn : column1 = toekn in the language, column2 = English Gloss, column3 = POS, column4 = comment  
+
+# sent_id = 09
+# text_amh = ስብሰባው በመጀመሪያ የታቀደው ለዋሽንግተን የግል ሜትሮፖሊታን ክለብ ከጥቂት ብሎኮች ርቆ በሚገኘው ኤች ጎዳና ላይ ነው።
+# text_ipa = sibisebawi bemejemerīya yetak'edewi lewashinigiteni yegili mētiropolītani kilebi ket'ik'īti bilokochi rik'o bemīgenyewi ēchi godana layi newi             
+# text_en = The gathering was originally slated for Washington’s private Metropolitan Club on H Street a few blocks away.
+# language = Amharic
+
+ስብሰባው   -   -   -   -   -
+
+ስብሰባ    meeting NOUN
+
+ው   det.masc    DET
+
+በመጀመሪያ  -   -   -   -   -
+
+በ   LOC ADP
+
+መጀመሪያ   beginning   NOUN 
+
+የታቀደው   -   -   -   -   -
+
+የታቀደ    planned ADJECTIVE
+
+ው   det.masc    DET
+
+ለዋሽንግተን -   -   -   -   -
+
+ለ   for ABL
+
+ዋሽንግተን  Washington  NOUN
+
+የግል -   -   -   -   -   -
+
+የ   of  GENETIVE   
+
+ግል  private NOUN
+
+ሜትሮፖሊታን Metropolitan    NOUN 
+
+ክለብ Club    NOUN 
+
+ከጥቂት    -   -   -   -   -
+
+ከ   from    LOC
+
+ጥቂት few PRON 
+
+ብሎኮች    blocks  NOUN 
+
+ርቆ  away     
+
+በሚገኘው   -   -   -   -   - 
+
+በ
+
+ሚገኘው    found   VERB
+
+ኤች  h      
+
+ጎዳና Street  NOUN 
+
+ላይ  on  ADP 
+
+ነው  be  AUX
+
+።   punkt   PUNKT
+
+
+#Student = Dawit Jembere
+#Language = amh (Amharic, Ethiopian Semitic language), eng (English)
+#Description = 
+#For each sentence: "#sent_id", "#text_amh", "#text_en"
+#For each toekn : column1 = toekn in the language, column2 = English Gloss, column3 = POS, column4 = comment  
+
+# sent_id = 10
+# text_amh = ምናልባት የአለባበስ ኮድ በጣም የተጨናነቀ ነበር።
+# text_ipa = minalibati ye'ālebabesi kodi bet'ami yetech'enanek'e neberi             
+# text_en = Maybe the dress code was too stuffy.
+# language = Amharic
+
+
+ምናልባት   Maybe   VERB 
+
+የአለባበስ  -   -   -   - 
+
+የ   of  GENETIVE
+
+አለባበስ   dressing    NOUN
+
+ኮድ  code    NOUN 
+
+በጣም very    ADV 
+
+የተጨናነቀ  crowded ADJECTIVE 
+
+ነበር was AUX
+
+።   punkt   PUNKT   
